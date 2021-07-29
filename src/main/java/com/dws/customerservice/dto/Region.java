@@ -1,7 +1,7 @@
 package com.dws.customerservice.dto;
 
 public class Region {
-	
+
 	private int id;
 	private String region;
 	
@@ -29,5 +29,4 @@ public class Region {
 	public void setRegion(String region) {
 		this.region = region;
 	}
-
 }
